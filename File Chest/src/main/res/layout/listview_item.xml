@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="?android:attr/activatedBackgroundIndicator">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="6dip"
+        android:contentDescription="TODO"
+        android:src="@drawable/ic_share_variant_grey600_24dp"
+        android:paddingBottom="7sp"
+        android:paddingTop="7sp"/>
+
+    <TextView
+        android:id="@+id/secondLine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:textSize="12sp"
+        android:layout_alignBottom="@+id/icon"
+        android:layout_toRightOf="@+id/icon"
+        android:layout_toEndOf="@+id/icon"
+        android:paddingBottom="2sp"
+        android:paddingTop="2sp"/>
+
+    <TextView
+        android:id="@+id/firstLine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_toRightOf="@id/icon"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:textSize="16sp"
+        android:text="HEY"
+        android:paddingBottom="5sp"
+        android:layout_above="@+id/secondLine" />
+
+    <ImageView
+        android:id="@+id/checkicon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/secondLine"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/secondLine"
+        android:contentDescription="check"
+        android:src="@drawable/check"
+        android:visibility="invisible"
+        android:layout_alignBottom="@+id/icon" />
+
+</RelativeLayout>

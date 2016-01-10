@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:gravity="center_horizontal"
+    android:orientation="vertical" android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.chest.blue.filechest.About"
+    android:weightSum="1">
+
+
+    <ImageView
+        android:layout_width="101dp"
+        android:layout_height="105dp"
+        android:id="@+id/imageView2"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/silverchest"
+        android:layout_weight="0.08" />
+
+    <TextView
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="File Chest"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:height="80sp"
+        android:width="80sp"
+        android:layout_marginTop="30sp"
+        android:padding="10sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Backend API"
+        android:id="@+id/textView3"
+        android:layout_weight="0.08" />
+
+    <ImageView
+        android:layout_width="81dp"
+        android:layout_height="100dp"
+        android:id="@+id/pcloud"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/pcloud" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Made by Aleksandar Ivanov
+        Fak № 121211134, gr. 51"
+        android:id="@+id/textView2"
+        android:layout_weight="0.08"
+        android:layout_marginTop="80sp" />
+</LinearLayout>

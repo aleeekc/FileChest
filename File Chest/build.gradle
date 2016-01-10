@@ -1,0 +1,106 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+def getDate() {
+    def date = new Date()
+    def formattedDate = date.format('yyyy-MM-dd-HH-mm-ss')
+    return formattedDate
+}
+
+def appendVersionNameVersionCode(variant, defaultConfig) {
+    variant.outputs.each { output ->
+        if (output.zipAlign) {
+            def file = output.outputFile
+            def fileName = file.name.replace(".apk", "-" + defaultConfig.versionName +  "-"  + defaultConfig.versionCode + "-" + getDate() + ".apk")
+            output.outputFile = new File(file.parent, fileName)
+        }
+
+        def file = output.packageApplication.outputFile
+        def fileName = file.name.replace(".apk", "-" + defaultConfig.versionName +  "-" + defaultConfig.versionCode + "-"  + getDate() + ".apk")
+        output.packageApplication.outputFile = new File(file.parent, fileName)
+
+    }
+}
+
+android {
+/*
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            output.outputFile = new File(
+                    output.outputFile.parent,
+                    output.outputFile.name.replace(".apk", defaultConfig.versionName  +"-${variant.versionName}-${variant.versionCode}-${getDate()}.apk"))
+        }
+    }
+*/
+
+
+
+
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+    }
+
+    defaultConfig {
+        applicationId "com.chest.blue.filechest"
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+        staging {
+
+            /*
+            applicationVariants.all { variant ->
+                appendVersionNameVersionCode(variant, defaultConfig)
+            }
+            */
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('lib/httpclient-4.4.jar')
+    compile files('lib/httpmime-4.4.jar')
+    compile files('lib/json-simple-1.1.1.jar')
+    compile files('lib/org.apache.commons.codec-1.8.jar')
+    compile files('lib/org.apache.commons.httpclient.jar')
+    compile('com.crashlytics.sdk.android:crashlytics:2.4.0@aar') {
+        transitive = true;
+    }
+    //22.1.1
+
+    // TEST ONLY DEPENDENCIES
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2'
+    androidTestCompile 'com.android.support.test:runner:0.3'
+    androidTestCompile 'com.android.support.test.espresso:espresso-contrib:2.2'
+    compile 'com.android.support:appcompat-v7:22.2.0'
+    compile 'com.google.android.gms:play-services:7.5.0'
+    compile 'com.android.support:support-v4:22.2.0'
+}

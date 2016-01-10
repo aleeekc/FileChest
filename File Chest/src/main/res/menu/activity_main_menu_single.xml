@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Search / will display always -->
+    <item android:id="@+id/action_search"
+        android:icon="@drawable/ic_magnify_grey600_48dp"
+        android:title="@string/action_search"
+        android:actionViewClass="android.widget.SearchView"/>
+
+    <item
+        android:id="@+id/delete"
+        android:title="@string/delete"/>
+    <item
+        android:id="@+id/Rename"
+        android:title="@string/rename"/>
+    <item
+        android:id="@+id/GetDownloadLink"
+        android:title="@string/GetDownloadLink"/>
+
+    <item
+        android:id="@+id/CopyLink"
+        android:title="@string/CopyLink"/>
+
+    <item
+        android:id="@+id/DownloadFile"
+        android:title="@string/DownloadFile"/>
+
+</menu>
