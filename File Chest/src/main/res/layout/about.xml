@@ -48,8 +48,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Made by Aleksandar Ivanov
-        Fak № 121211134, gr. 51"
+        android:text=""
         android:id="@+id/textView2"
         android:layout_weight="0.08"
         android:layout_marginTop="80sp" />

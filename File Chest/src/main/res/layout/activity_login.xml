@@ -36,7 +36,6 @@
                 android:theme="@style/AppTheme"
 
 
-                android:text="aleeekc3@abv.bg"
 
 
                 android:singleLine="true"
@@ -48,8 +47,6 @@
                 android:imeActionLabel="@string/action_sign_in_short"
                 android:theme="@style/AppTheme"
 
-
-                android:text="9210255044"
 
 
                 android:imeOptions="actionUnspecified" android:inputType="textPassword"

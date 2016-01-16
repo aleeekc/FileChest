@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-a41d7cd5fe0275501619b18821c3a8bf15a042f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-3b619c34f34c388005c4f35dcc69e76340d21938.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-82c8fe8e0d998eca57c5b25020b0464995f7c8b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-e3768de6aee8836c7c257fbd5a8356bdcb9778ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-7874709a4d151e9aba789b5f331babd0af311173.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-6f1a8e63daa8f043e3dde11ef031bae05483b13f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-dbec8ef70fc297ade101a5445ab79efea7e48f9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-0a6909e5715ccf32bec327cc29577e2f1387f06b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-d0ceb5b23448b12de787128f279a424a5178f480.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\lib\org.apache.commons.codec-1.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af243a2c8302b659b0afe9b4a2d8add1b7f964c0">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\org.apache.commons.codec-1.8-80e46dc8fd85806cd48df3737e37a56343d4d6be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-413b44eda96512cec6686617211c8a54e9b87c1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b46e9af764b8c13265c07e844172a81f719541c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-9ce0312ab704ad1fa4357107d68f4cbadd7094ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-05a09ec2f40b9210d1739ba4813e808f8e918fb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-8efb2bee2ad6ec3c8f66a9fd27570e70c68506b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ae92a4a0019c1fff06cae40d8ccf072dcd7de888.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-4cde761ebcceb76efbf8d6ad5ca4ff004fb4c406.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\lib\httpclient-4.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6d220441ca681dddc55a189eae81a437309128b8">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\httpclient-4.4-a44b7a0105b7f3f0de484ae7f5b1769890d93457.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\lib\org.apache.commons.httpclient.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962616364835eaa661b7b5eaa0c5ead586d2c4fa">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\org.apache.commons.httpclient-8074dfb2a6e9ce087d795b79592b7729c8b6a48f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-7e002a0c9086f059e61d979ccffac69902001f14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-7b9f5dc5b4b608893371b6a658f0067ff2dc9b72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1bc86445cb8cb7ed8adfa64241cc8e88675b5598.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-f541477f30b54c6fdd6bfddb2963bb5ac8cbf506.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\lib\httpmime-4.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="54646f004d5b4c37a5a75b1d416c59a3075204e2">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\httpmime-4.4-d8caa6e97920c5cbbba5274823750e40692ac723.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-c5116c5f2859aef92aa32fe5883237a6ea989fe9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\lib\json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\json-simple-1.1.1-4675ec245671682c0c8a9f9e59d66752169999c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-0a4add664c01e51daf77f2a411c2dc5cbb681e4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-0d893048d769ff8762a41e0282e7de5d29c3055f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-2bbafab8a8e96f431d89182d0f94baace882ff7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-5cf97615292f9c93bd97dced5496218d9ddbec71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-08bb03a202fae32a4125784ca0f567598ed91626.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-34c533b70781688fa26300a239921a5a903ce530.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c364019628ff5b32e4930334e9db4680829f7115">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-e76d8867c14db618a1839b68f2ada013da057223.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-95a7c3a8bf170951f31dd3c3e1799b8e78201272.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-51b084d39f41da28208f45727f662dbbdc3f04ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Blue\Desktop\NEW NEW NEW\FileChest\File Chest\build\intermediates\pre-dexed\debug\classes-b3e3930396ca0fd641a9c315c1dde0806fb2a5ba.jar" />
+    </item>
+
+</items>

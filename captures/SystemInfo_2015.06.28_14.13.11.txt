@@ -1,0 +1,33 @@
+Applications Memory Usage (kB):
+Uptime: 483742 Realtime: 483742
+
+** MEMINFO in pid 5503 [com.chest.blue.filechest] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    28484    28412        0        0    32768    29225     3542
+  Dalvik Heap    65207    65148        0        0    65110    63095     2015
+ Dalvik Other     2808     2796        0        0                           
+        Stack       80       80        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap      322       56       16        0                           
+    .apk mmap      190        0       12        0                           
+    .dex mmap     2588        0     2584        0                           
+    .oat mmap     1046        0      324        0                           
+    .art mmap      703      336        0        0                           
+   Other mmap        4        4        0        0                           
+      Unknown       41       40        0        0                           
+        TOTAL   101477    96872     2940        0    97878    92320     5557
+ 
+ Objects
+               Views:    16948         ViewRootImpl:        0
+         AppContexts:        3           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:        3        Proxy Binders:        9
+       Parcel memory:        2         Parcel count:        9
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
